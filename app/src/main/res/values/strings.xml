@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Score_keeper_App</string>
+    <string name="_1_run">1 run</string>
+    <string name="_6_run">6 run</string>
+    <string name="_4_run">4 run</string>
+    <string name="out">out</string>
+    <string name="slash">/</string>
+    <string name="india">INDIA</string>
+    <string name="australia">AUSTRALIA</string>
+    <string name="reset">RESET</string>
+    <string name="zero">0</string>
+    <string name="finish">FINISH</string>
+    <string name="australian_flag">Australian_flag</string>
+    <string name="indian_flag">Indian_flag</string>
+</resources>
